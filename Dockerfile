@@ -4,4 +4,4 @@ ADD . /app
 RUN go build &&\
     go test -v 
 
-ENTRYPOINT [ "/app/source_api" ]
+ENTRYPOINT [ "/app/app" ]
