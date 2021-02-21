@@ -2,7 +2,7 @@
 This project is dedicated to collect data which are public available through [the valve server queries](https://developer.valvesoftware.com/wiki/Server_queries).
 
 
-Project is zero dependencies built for maximum support.
+Project has zero dependencies built for maximum support.
 
 ## How to use:
 You can build the project by the default go build tools: `go build`
